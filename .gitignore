@@ -17,3 +17,5 @@ dist/
 
 # OS
 .DS_Store
+
+backend/visit_photos/
